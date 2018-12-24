@@ -8,7 +8,9 @@
     'description' : 'Module that automatically E-mails a list of products with low stock. ',
     'category' : 'Sales Management',
     'depends' : ['base', 'mail', 'product'],
-    'images': ['static/description/banner.png'], 
+    'images': ['static/description/banner.png'],
+    'price': 7.00,
+    'currency': 'EUR',
     'data':[
     			'data/email_template.xml',
                 'views/product_template.xml',
