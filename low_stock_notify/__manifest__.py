@@ -2,7 +2,7 @@
 {
     'name' : 'Product Low Stock Notification',
     'version' : '1.1',
-    'author' : 'Boubaker Tunisoft',
+    'author' : 'boubaker abdallah',
     'summary' : '',
     'license' : 'OPL-1',
     'description' : 'Module that automatically E-mails a list of products with low stock. ',
