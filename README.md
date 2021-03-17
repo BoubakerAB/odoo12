@@ -1,2 +1,2 @@
-# odoo12
-Odoo12 dev
+# odoo13
+Odoo13 dev
